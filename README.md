@@ -56,12 +56,8 @@ The app is deployed on Vercel at [klock-addon.vercel.app](https://klock-addon.ve
 
 **Screenshots:**
 
+![image](https://github.com/user-attachments/assets/f1d58b5e-8f17-47dc-8088-50d9accc3cdd)
 
-
-
-
-
-**Mobile Preview**
 
 
 
